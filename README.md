@@ -1,0 +1,1 @@
+The files are all finite, primitive, solvable, linear groups of rank <= 5. These groups are constructed as matrix groups acting on suitable fields, and each file corresponds to a single row in Table 1 or Table 2 in the paper.
