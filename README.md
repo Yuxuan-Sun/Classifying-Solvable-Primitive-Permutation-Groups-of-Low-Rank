@@ -6,7 +6,7 @@ The files are all finite, primitive, solvable, linear groups of rank <= 4. These
 
 MIT License
 
-Copyright (c) 2023 Zach Slonim
+Copyright (c) 2023 Yuxuan Sun
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
